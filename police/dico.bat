@@ -9,5 +9,4 @@ set file=C:\Users\Landon\Desktop\police\aound.mp3
   echo Wend
 )>sound.vbs
 start /min sound.vbs
-
 exit /b
